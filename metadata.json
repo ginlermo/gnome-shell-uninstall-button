@@ -1,0 +1,17 @@
+{
+  "uuid": "uninstall-button@ginlermo.github.io",
+  "name": "App Grid Uninstall Button",
+  "description": "Adds an Uninstall entry to the app icon context menu. Supports Flatpak, Snap, system packages (RPM/DEB via PackageKit/polkit) and AppImage.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.uninstall-button",
+  "url": "https://github.com/ginlermo/gnome-shell-uninstall-button",
+  "version-name": "1.0.0"
+}
