@@ -7,7 +7,9 @@ A GNOME Shell extension that adds an **Uninstall** entry to the context menu of 
 - Native confirmation dialog and GNOME notifications for progress, success and errors
 - Asynchronous (never blocks the shell) and fully cleaned up on disable
 
-<!-- Add a screenshot: ![Uninstall menu](screenshots/menu.png) -->
+![Uninstall entry in the app icon menu](screenshots/menu.png)
+
+![Confirmation dialog](screenshots/confirm.png)
 
 ## How it works
 
